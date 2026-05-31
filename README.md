@@ -73,10 +73,12 @@ Sem frameworks ou dependências de build — o projeto roda diretamente no naveg
 
 ```
 /
-├── index.html     # Estrutura HTML completa
+├── index.html     # Estrutura HTML completa com todas as meta tags de SEO
 ├── style.css      # Estilos, variáveis CSS e responsividade
 ├── script.js      # Lógica JS (cursor, scroll, FAQ, formulário, animações)
 ├── pedro.jpg      # Foto do professor
+├── robots.txt     # Autoriza indexação pelo Googlebot e aponta o sitemap
+├── sitemap.xml    # Mapa do site para facilitar a indexação pelo Google
 └── README.md      # Este arquivo
 ```
 
