@@ -98,7 +98,7 @@ Ou simplesmente abra o `index.html` direto no navegador.
 
 O site está hospedado via **GitHub Pages**:
 
-> 🔗 [https://samuzaum.github.io/Pex-Professor-Pedro](https://samuzaum.github.io/Pex-ProfessorPedro/)
+> 🔗 [https://samuzaum.github.io/Pex-ProfessorPedro](https://samuzaum.github.io/Pex-ProfessorPedro/)
 
 ---
 
